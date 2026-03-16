@@ -1,7 +1,7 @@
 # School's Record Management
 
 ## Note
-This was just a school project to see how well I have understood the language and file handling in C
+This was just a school project to see how well I have understood the language and file handling in C. So, don't expect anything too professional.
 
 ## Installation
 
