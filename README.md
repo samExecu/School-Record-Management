@@ -1,5 +1,8 @@
 # School's Record Management
 
+## Note
+This was just a school project to see how well I have understood the language and file handling in C
+
 ## Installation
 
 To use this program, you will need to have a C compiler installed on your system. You can download and install a C compiler such as GCC (GNU Compiler Collection) or Microsoft Visual C++ (MSVC).
@@ -26,15 +29,12 @@ The program provides the following menu options:
 
 To use the program, simply run the `school_records` executable and follow the on-screen instructions.
 
-## Note
-This program was developed a year ago, and no further updates or changes are planned for the future.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Testing
 
 To test the program, you can run the executable and try out the various menu options. You can add, view, search, delete, and update student records, and also view the recycle bin.
 
 You can also test the program by modifying the `main.c` file and recompiling it to see the changes in functionality.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
